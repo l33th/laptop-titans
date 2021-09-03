@@ -1,10 +1,10 @@
 {
   "name": "laptop-titans",
   "version": "1.0.0",
-  "description": "\"Top Best Laptops\"",
-  "main": "app.js",
+  "description": "Top Best Laptops",
+  "main": "web.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/l33th/laptop-titans/issues"
   },
-  "homepage": "https://github.com/l33th/laptop-titans#readme"
+  "homepage": "https://github.com/l33th/laptop-titans#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+    "engines": {
+    "node": "14.x"
+  }
+
 }
