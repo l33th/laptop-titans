@@ -4,7 +4,7 @@
   "description": "Top Best Laptops",
   "main": "web.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/l33th/laptop-titans/issues"
   },
+  "nodemon": "2.0.33",
   "homepage": "https://github.com/l33th/laptop-titans#readme",
   "dependencies": {
     "express": "^4.17.1"
