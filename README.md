@@ -6,5 +6,5 @@
 # Running the app
 - clone the repository
 - navigate into the app with your terminal
-- run nodemon start index.js
+- run node index.js
 - go to 'localhost:1337' in your browser
