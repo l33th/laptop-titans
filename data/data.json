@@ -1,0 +1,57 @@
+[
+    {
+        "id": "0",
+        "productName": "Alienware m15 R6",
+        "image": "alienware-m15-r6.jpg",
+        "cpu": "11th Gen Core i7-11800H",
+        "ram": "8GB or 16GB RAM",
+        "storage": "up to a 1TB M.2 PCIe SSD",
+        "screen": "15.6-inch 1080p display with either a 165Hz or 240Hz refresh rate",
+        "price": "1499",
+        "description": "This is one of the best laptops out there. It includes a number of features including full-size Ethernet, three USB-A 3.2 Gen 1 ports, one USB-C Thunderbolt 4 port, an HDMI 2.1 output, and a global headset jack."
+    },
+    {
+        "id": "1",
+        "productName": "MacBook Pro (16-inch, 2019)",
+        "image": "macbook-pro.jpg",
+        "cpu": "9th-generation Intel Core i7 – i9",
+        "ram": "16GB – 64GB",
+        "storage": "512GB – 8TB SSD",
+        "screen": "Stunning 16-inch screen",
+        "price": "4199",
+        "description": "If you're after the latest and greatest laptop from Apple, this is one of the fastest laptops out there. It's one of the most powerful laptops money can buy right now, and keeps the thin, light and stylish design that made the MacBook Pro range so iconic!"
+    },
+    {
+        "id": "2",
+        "productName": "Dell XPS 17 (2020)",
+        "image": "dell-xps-17.jpg",
+        "cpu": "Up to 10th Generation Intel Core i9-10885H",
+        "ram": "Up to 64GB DDR4-2933MHz",
+        "storage": "Up to 2TB M.2 PCIe NVMe",
+        "screen": "17.0  FHD+ (1920 x 1200) InfinityEdge Non-Touch Anti-Glare 500-Nit – 17.0 UHD+ (3840 x 2400) InfinityEdge Touch Anti-Reflective 500-Nit",
+        "price": "2199",
+        "description": "The Dell XPS 13 is an absolutely brilliant laptop.  Despite boasting some very impressive specs, and coming with a 17-inch display, the XPS 17 remains an impressively thin and light device, which means you can comfortably carry it around with you. "
+    },
+    {
+        "id": "3",
+        "productName": "Razer Blade 15 Studio Edition (2020)",
+        "image": "razer-blade-15.jpg",
+        "cpu": "Intel Core i7-10875H",
+        "ram": "32GB DDR4-2933MHz ",
+        "storage": "1TB SSD",
+        "screen": "15.6 OLED 4K Touch 60Hz, 100% DCI-P3, factory calibrated ",
+        "price": "2399",
+        "description": "Asus has struck gold with The Razer Blade 15 Studio Edition is a brilliant laptop aimed at photographers, graphic designers and video editors in particular, with a choice of powerful graphics cards, along with a stunning, factory-calibrated 4K display, you'll be really happy with this fantastic device."
+    },
+    {
+        "id": "4",
+        "productName": "Gigabyte Aero 17 (2021)",
+        "image": "gigabyte-aero-17.jpg",
+        "cpu": "Intel Core i9-10980HK",
+        "ram": "64GB",
+        "storage": "2 x 1TB SSD",
+        "screen": "17.3-inch UHD 4K OLED",
+        "price": "2499",
+        "description": "The Gigabyte Aero 17 is one of its very best. It comes with plenty of ports, which means you can easily plug in your trusted peripherals without having to use a dongle, and its screen is one of the best we've seen in a laptop."
+    }
+]
