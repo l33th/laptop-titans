@@ -1,0 +1,22 @@
+{
+  "name": "laptop-titans",
+  "version": "1.0.0",
+  "description": "\"Top Best Laptops\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l33th/laptop-titans.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "wlsm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l33th/laptop-titans/issues"
+  },
+  "homepage": "https://github.com/l33th/laptop-titans#readme"
+}
